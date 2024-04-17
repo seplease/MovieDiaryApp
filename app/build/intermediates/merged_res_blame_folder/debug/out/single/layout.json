@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\seple\\.gradle\\daemon\\8.0\\ddwu.com.mobile.naverretrofittest.app-mergeDebugResources-35:\\layout\\activity_detail.xml",
+        "source": "C:\\Users\\seple\\.gradle\\daemon\\8.0\\ddwu.com.mobile.naverretrofittest.app-main-38:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\seple\\.gradle\\daemon\\8.0\\ddwu.com.mobile.naverretrofittest.app-mergeDebugResources-35:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\seple\\.gradle\\daemon\\8.0\\ddwu.com.mobile.naverretrofittest.app-main-38:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\seple\\.gradle\\daemon\\8.0\\ddwu.com.mobile.naverretrofittest.app-mergeDebugResources-35:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\seple\\.gradle\\daemon\\8.0\\ddwu.com.mobile.naverretrofittest.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\seple\\.gradle\\daemon\\8.0\\ddwu.com.mobile.naverretrofittest.app-mergeDebugResources-35:\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\seple\\.gradle\\daemon\\8.0\\ddwu.com.mobile.naverretrofittest.app-main-38:\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\seple\\.gradle\\daemon\\8.0\\ddwu.com.mobile.naverretrofittest.app-mergeDebugResources-35:\\layout\\activity_add_memo.xml",
+        "source": "C:\\Users\\seple\\.gradle\\daemon\\8.0\\ddwu.com.mobile.naverretrofittest.app-main-38:\\layout\\activity_add_memo.xml"
+    },
+    {
+        "merged": "C:\\Users\\seple\\.gradle\\daemon\\8.0\\ddwu.com.mobile.naverretrofittest.app-mergeDebugResources-35:\\layout\\activity_show_memo_list.xml",
+        "source": "C:\\Users\\seple\\.gradle\\daemon\\8.0\\ddwu.com.mobile.naverretrofittest.app-main-38:\\layout\\activity_show_memo_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\seple\\.gradle\\daemon\\8.0\\ddwu.com.mobile.naverretrofittest.app-mergeDebugResources-35:\\layout\\list_item.xml",
+        "source": "C:\\Users\\seple\\.gradle\\daemon\\8.0\\ddwu.com.mobile.naverretrofittest.app-main-38:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "ddwu.com.mobile.naverretrofittest.app-mergeDebugResources-35:/layout/activity_add_memo.xml",
+        "source": "ddwu.com.mobile.naverretrofittest.app-main-38:/layout/activity_add_memo.xml"
+    },
+    {
+        "merged": "C:\\Users\\seple\\.gradle\\daemon\\8.0\\ddwu.com.mobile.naverretrofittest.app-mergeDebugResources-35:\\layout\\activity_show_memo.xml",
+        "source": "C:\\Users\\seple\\.gradle\\daemon\\8.0\\ddwu.com.mobile.naverretrofittest.app-main-38:\\layout\\activity_show_memo.xml"
+    },
+    {
+        "merged": "ddwu.com.mobile.naverretrofittest.app-mergeDebugResources-35:/layout/activity_detail.xml",
+        "source": "ddwu.com.mobile.naverretrofittest.app-main-38:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\seple\\.gradle\\daemon\\8.0\\ddwu.com.mobile.naverretrofittest.app-mergeDebugResources-35:\\layout\\fragment_detail.xml",
+        "source": "C:\\Users\\seple\\.gradle\\daemon\\8.0\\ddwu.com.mobile.naverretrofittest.app-main-38:\\layout\\fragment_detail.xml"
+    }
+]
